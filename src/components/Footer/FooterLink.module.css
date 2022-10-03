@@ -1,0 +1,6 @@
+.footerlink {
+    max-width:100%;
+    max-height:22px;
+    background-image: url(../../assets/img/footer.png);
+    background-size: cover; 
+  };
