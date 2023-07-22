@@ -6,6 +6,7 @@ import Grid from "@material-ui/core/Grid";
 // import Logo from '../../assets/img/logo.png';
 import NavLinks from "./NavLinks";
 import AuthButtons from "./AuthButton";
+import Classes from "./Navbar.module.css";
 
 const useStyles = makeStyles((theme) => ({
   nav: {
@@ -14,7 +15,8 @@ const useStyles = makeStyles((theme) => ({
     // backgroundColor:'#3B1D60',
   },
   container: {
-    width: "1100px",
+    width: "100%",
+    maxWidth: "1100px",
     height: "36px",
     marginTop: "79px",
     display: "flex",
@@ -32,8 +34,8 @@ export default function Navbar() {
   const classes = useStyles();
 
   return (
-    <nav className={classes.nav}>
-      <div className={classes.container}>
+    <nav className={Classes.nav}>
+      <div className={Classes.container}>
         <Grid item xs={6}>
           {/* <img alt='' src={Logo} className={classes.logo}/> */}
           <NavLinks />

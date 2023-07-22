@@ -1,6 +1,12 @@
 .product {
-    max-width:100%;
-    max-height:500px;
-     /* background-image: url(../../assets/img/productdot.png);
+  max-width: 100%;
+  max-height: 500px;
+  width: 944px;
+  height: 700px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  /* background-image: url(../../assets/img/productdot.png);
     background-size: cover;   */
-  };
+}
