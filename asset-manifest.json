@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-landing-page/static/css/main.dc716baa.css",
+    "main.js": "/react-landing-page/static/js/main.731b1235.js",
+    "static/media/cardGroup.png": "/react-landing-page/static/media/cardGroup.dcfe1a1c746b898fcef9.png",
+    "static/media/headerImg.png": "/react-landing-page/static/media/headerImg.5fdd609b3c8e350d0415.png",
+    "static/media/card.png": "/react-landing-page/static/media/card.c360e53c8eaf4e376228.png",
+    "static/media/contextImg.png": "/react-landing-page/static/media/contextImg.da46b6ef8b372225f4eb.png",
+    "static/media/content.png": "/react-landing-page/static/media/content.0d1f09b5781a14bc6139.png",
+    "static/media/productImg.png": "/react-landing-page/static/media/productImg.519f1fee7339694ee9f8.png",
+    "static/media/footer.png": "/react-landing-page/static/media/footer.453d124ff4d452fe5c23.png",
+    "static/media/clients(5).svg": "/react-landing-page/static/media/clients(5).224ee23c4bc587b6bf1f1793f86633e2.svg",
+    "static/media/productdot.png": "/react-landing-page/static/media/productdot.c0e3bcf3721ed0a98ac8.png",
+    "static/media/contentdot.png": "/react-landing-page/static/media/contentdot.203926f6fd133c645708.png",
+    "static/media/clients(3).svg": "/react-landing-page/static/media/clients(3).6b561c8e5eddcac6f267d35cd80aae08.svg",
+    "static/media/clients(2).svg": "/react-landing-page/static/media/clients(2).c647cd67397e0ac6f2cc18175ed8f1b9.svg",
+    "static/media/clients(4).svg": "/react-landing-page/static/media/clients(4).7a73fb63afa7ad7055f30777e642b907.svg",
+    "static/media/clients(6).svg": "/react-landing-page/static/media/clients(6).6480e7436c2636e756066e529cd791ce.svg",
+    "static/media/clients(1).svg": "/react-landing-page/static/media/clients(1).000f0e10a37d2f00796678ce3b6fc791.svg",
+    "static/media/airpods.svg": "/react-landing-page/static/media/airpods.b780a1e6a2cf2ff13f385882c7e03522.svg",
+    "static/media/Google.svg": "/react-landing-page/static/media/Google.578c6604791a55f6b80ca54dc84b9302.svg",
+    "index.html": "/react-landing-page/index.html",
+    "static/media/lte.svg": "/react-landing-page/static/media/lte.be7b552fdbda0ad06c0dd0fde86a356a.svg",
+    "static/media/Twitter.svg": "/react-landing-page/static/media/Twitter.b1a5e1e71741d9e68f4bad755b7c06d7.svg",
+    "static/media/attachment.svg": "/react-landing-page/static/media/attachment.a821a3bbd328ee4a22c84bc1f8cd04cd.svg",
+    "static/media/bulb.svg": "/react-landing-page/static/media/bulb.057fa87738a51fe5a0da4b106f9d1dcb.svg",
+    "static/media/thunder-move.svg": "/react-landing-page/static/media/thunder-move.ea2b756ac25d142f1fcd6365c3234e7b.svg",
+    "static/media/flip-horizontal.svg": "/react-landing-page/static/media/flip-horizontal.ed8b90acea172ff72037307a5e96d6c3.svg",
+    "static/media/Facebook.svg": "/react-landing-page/static/media/Facebook.9c6b28ad638a98c2a1033f7d39349674.svg",
+    "main.dc716baa.css.map": "/react-landing-page/static/css/main.dc716baa.css.map",
+    "main.731b1235.js.map": "/react-landing-page/static/js/main.731b1235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc716baa.css",
+    "static/js/main.731b1235.js"
+  ]
+}
